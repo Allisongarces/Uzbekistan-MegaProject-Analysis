@@ -56,7 +56,7 @@ The project includes:
 
 Allison Garcés – Data Analyst & Developer specialized in big data processing, analytics, and project-based reporting.
 
-🔗 [Fiverr Profile](https://www.fiverr.com/) (or add your link)
+🔗 [Fiverr Profile]([https://www.fiverr.com/](https://es.fiverr.com/s/7YlmbDL))
 
 ---
 
